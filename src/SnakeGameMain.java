@@ -78,7 +78,6 @@ public class SnakeGameMain extends JPanel implements ActionListener {
                 apple.setRandomPosition();
                 jFrame.setVisible(true);
                 timer.start();
-
             }
         }
         repaint();
